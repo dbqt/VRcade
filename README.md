@@ -4,7 +4,7 @@
 The goal was to take 3 retro games and reimagine them in virtual reality.
 We took Tetris, Asteroids and Minesweeper, and we turned each of them into a few minutes virtual reality experience.
 
-[![IMAGE ALT TEXT](http://i.imgur.com/h5m3kq5.png)](https://www.youtube.com/watch?v=YAjtUVReG1Q "VRcade")
+[![IMAGE ALT TEXT](http://i.imgur.com/h5m3kq5.png)](https://youtu.be/9-omOJ3AqsI "VRcade")
 
 ## The context
 We were tasked by the school to create 3 demo games to showcase virtual reality during various events. This project has been developed in about 3 months for educational purpose only. 
